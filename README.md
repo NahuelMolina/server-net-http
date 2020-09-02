@@ -5,7 +5,11 @@ I'm learning to edit this format of text files for upload my own code to this pl
 ##For use
 On command line write...
 ```bash
-go build
+go build server.go
+```
+And later, if your're on windows, write the next line to execute the binary that you create
+```bash
+server
 ```
 ## I'm gonna try to learn...
 how is the backend developers on this language
