@@ -1,0 +1,26 @@
+{
+  "name": "server-net-http",
+  "version": "1.0.0",
+  "description": "Thats an example\r \u0018",
+  "main": "index.js",
+  "scripts": {
+
+    "exe":"index",
+	"dev": "go build src/index.go && index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NahuelMolina/server-net-http.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NahuelMolina/server-net-http/issues"
+  },
+  "homepage": "https://github.com/NahuelMolina/server-net-http#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
